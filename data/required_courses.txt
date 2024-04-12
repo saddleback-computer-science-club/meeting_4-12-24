@@ -1,0 +1,11 @@
+UCI
+Computer Science (CS)
+CS1A: CS101, CS1B: CS102
+
+UCSD
+Computer Science (CS)
+CS1A: CS101, CS1B: CS102
+
+UCLA
+Computer Science (CS)
+CS3A: CS200, CS3B: CS201
