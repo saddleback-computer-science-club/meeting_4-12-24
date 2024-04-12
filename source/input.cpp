@@ -4,6 +4,6 @@
 // (StudentData) while ensuring input is valid.
 StudentData acceptCompletedCourses()
 {
-    // ...
+    
     return {};
 }

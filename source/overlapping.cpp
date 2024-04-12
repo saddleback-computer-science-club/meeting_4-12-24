@@ -1,4 +1,6 @@
 #include "application.h"
+#include <algorithm>
+#include <vector>
 
 /* Determines the overlap of required courses in a given list of universities.
 
@@ -6,6 +8,7 @@
  */
 std::vector<Course> findOverlap(const std::vector<University>& unis)
 {
-    // ...
+
+    
     return {};
 }
