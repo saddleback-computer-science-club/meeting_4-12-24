@@ -14,11 +14,18 @@ struct Course
     // ...
 };
 
-std::vector<University> parseFile(std::string_view fileName, std::string_view uniName);
+struct StudentData
+{
+    // ...
+};
+
+std::vector<University> parseFile(std::string_view fileName);
 
 std::vector<Course> computeRequired(const std::vector<Course>& required,
                                     const std::vector<Course>& taken);
 
 std::vector<Course> findOverlap(const std::vector<University>& unis);
+
+StudentData acceptCompletedCourses();
 
 #endif  // APPLICATION_H
